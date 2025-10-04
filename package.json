@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
@@ -37,7 +36,6 @@
     "vite": "^7.1.7"
   }
 }
-=======
   "name": "blood-share-backend",
   "version": "1.0.0",
   "description": "Blood Share Backend API",
@@ -72,7 +70,7 @@
     "express",
     "mongodb"
   ],
+{
   "author": "Blood Share Team",
   "license": "MIT"
 }
->>>>>>> 48d2f9fa63323d1331858e9bb5ed8b65a5ec9070
