@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+/node_modules
+>>>>>>> 48d2f9fa63323d1331858e9bb5ed8b65a5ec9070
